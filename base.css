@@ -1,6 +1,8 @@
 * { box-sizing: border-box; }
 
 body {
+
+    color: #008881;
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: 0 auto;
@@ -12,7 +14,7 @@ button, input {
     font: inherit;
     padding: 0.7rem 1rem;
     margin: 0.25rem;
-    background: navy;
+    background: #ffe6d1;
 }
 
 .card {

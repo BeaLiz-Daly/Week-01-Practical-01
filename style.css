@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 
 body {
-    background-color:magenta;
+    background-color:lightgoldenrodyellow;
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: 0 auto;
@@ -10,11 +10,12 @@ body {
 }
 
 button, input {
-    color:greenyellow;
+    border: 2px solid #814471;
+    color: #008881;
     font: inherit;
     padding: 0.7rem 1rem;
     margin: 0.25rem;
-    background: pink;
+    background-color: #f8b3b3;
 }
 
 .card {
