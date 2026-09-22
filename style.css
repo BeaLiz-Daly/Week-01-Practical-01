@@ -1,6 +1,7 @@
 * { box-sizing: border-box; }
 
 body {
+    background-color:magenta;
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: 0 auto;
@@ -9,10 +10,11 @@ body {
 }
 
 button, input {
+    color:greenyellow;
     font: inherit;
     padding: 0.7rem 1rem;
     margin: 0.25rem;
-    background: grey;
+    background: pink;
 }
 
 .card {
